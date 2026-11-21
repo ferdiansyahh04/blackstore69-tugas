@@ -1,0 +1,1 @@
+import {Shell,PageTitle} from './ui';export default function NotFound(){return <Shell><div className="narrow"><PageTitle tag="404 / HALAMAN TIDAK TERSEDIA" title="Halaman tidak ditemukan." sub="Pilih produk lain atau kembali ke katalog."/><a href="/" className="primary">Kembali ke katalog ↗</a></div></Shell>}

@@ -1,0 +1,1 @@
+'use client';export default function ErrorPage({reset}:{reset:()=>void}){return <main className="narrow"><h1>Ada kendala.</h1><p>Halaman belum berhasil dimuat. Silakan coba kembali.</p><button className="primary" onClick={reset}>Coba lagi</button><a href="/"> Kembali ke toko</a></main>}

@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /riwayat
+Disallow: /lacak
+
+Sitemap: https://blackstore69.web.id/sitemap.xml
+
+# Crawl-delay untuk bot yang baik
+Crawl-delay: 1
